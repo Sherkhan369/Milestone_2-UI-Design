@@ -5,7 +5,7 @@ import Contact from "./contact/page";
  function Home() {
   return (
     
-   <div className="h-auto">
+   <div>
     <div className="hero-section">
       <div className="hero-content">
         <h1 >Better Solutions For <br /> Your Business</h1>
